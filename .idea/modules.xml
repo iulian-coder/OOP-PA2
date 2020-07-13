@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AirlineManagement2/AirlineManagement2.iml" filepath="$PROJECT_DIR$/AirlineManagement2/AirlineManagement2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventManagement2/EventManagement2.iml" filepath="$PROJECT_DIR$/EventManagement2/EventManagement2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP-PA.iml" filepath="$PROJECT_DIR$/.idea/OOP-PA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfficeWorkplace2/OfficeWorkplace2.iml" filepath="$PROJECT_DIR$/OfficeWorkplace2/OfficeWorkplace2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wardrobe/Wardrobe.iml" filepath="$PROJECT_DIR$/Wardrobe/Wardrobe.iml" />
+    </modules>
+  </component>
+</project>
